@@ -1,6 +1,6 @@
 # Opium Core
 
-### Core update v0.5
+### Core update v0.6
 
 - [Les Patch Notes](PatchNotes.md)
 

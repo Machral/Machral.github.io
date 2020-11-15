@@ -1,6 +1,9 @@
 # [Patch notes](https://machral.github.io/)
 
-## [v0.5](#v04)
+## [v0.6](#v06)
+	- Ajustement du texte pour le prix des enclos et des maisons
+
+## [v0.5](#v05)
 	- Ajout de la possibilité de descendre d'un niveau un sort dans la liste
 	- Changement de couleur pour le canal Opium (Bordeaux)
 	- Ajout du Puit/Poids et succes quand on fait de la forgemagie
